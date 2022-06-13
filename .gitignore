@@ -1,0 +1,5 @@
+.venv
+plots
+*analysis
+*masks_and_rois
+*segmented_cells
